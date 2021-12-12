@@ -9,6 +9,9 @@ const nav= () =>{
     <li>
       <Link to="/about">About</Link>
     </li>
+    <li>
+      <Link to="/contac">Contact</Link>
+    </li>
   </div>
   );
 }
